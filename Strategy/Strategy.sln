@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Strategy.csproj", "{8DF24E7A-2707-4234-AA87-B2A8739F27AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "..\Iterator\Iterator.csproj", "{810F5FBC-F009-4A5A-BF00-86FF1825A908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DF24E7A-2707-4234-AA87-B2A8739F27AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DF24E7A-2707-4234-AA87-B2A8739F27AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DF24E7A-2707-4234-AA87-B2A8739F27AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DF24E7A-2707-4234-AA87-B2A8739F27AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{810F5FBC-F009-4A5A-BF00-86FF1825A908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{810F5FBC-F009-4A5A-BF00-86FF1825A908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{810F5FBC-F009-4A5A-BF00-86FF1825A908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{810F5FBC-F009-4A5A-BF00-86FF1825A908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A3478E9-D735-44FF-902D-538F4E343EA6}
+	EndGlobalSection
+EndGlobal
