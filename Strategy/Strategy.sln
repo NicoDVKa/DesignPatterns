@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Strategy.csproj", "{8DF24E7A-2707-4234-AA87-B2A8739F27AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "..\Iterator\Iterator.csproj", "{810F5FBC-F009-4A5A-BF00-86FF1825A908}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterator", "..\Iterator\Iterator.csproj", "{810F5FBC-F009-4A5A-BF00-86FF1825A908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "..\FactoryMethod\FactoryMethod.csproj", "{1C8E2D1C-7085-4437-9582-65E7EA2ABF25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{810F5FBC-F009-4A5A-BF00-86FF1825A908}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{810F5FBC-F009-4A5A-BF00-86FF1825A908}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{810F5FBC-F009-4A5A-BF00-86FF1825A908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C8E2D1C-7085-4437-9582-65E7EA2ABF25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8E2D1C-7085-4437-9582-65E7EA2ABF25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8E2D1C-7085-4437-9582-65E7EA2ABF25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8E2D1C-7085-4437-9582-65E7EA2ABF25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
