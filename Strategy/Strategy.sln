@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "..\Observer\Obs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "..\Adapter\Adapter.csproj", "{DC630A33-A58E-443A-B724-D5532A576B76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "..\Decorator\Decorator.csproj", "{5B849374-F6D1-42AF-BDAD-BEF5EAF2121F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DC630A33-A58E-443A-B724-D5532A576B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC630A33-A58E-443A-B724-D5532A576B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC630A33-A58E-443A-B724-D5532A576B76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B849374-F6D1-42AF-BDAD-BEF5EAF2121F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B849374-F6D1-42AF-BDAD-BEF5EAF2121F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B849374-F6D1-42AF-BDAD-BEF5EAF2121F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B849374-F6D1-42AF-BDAD-BEF5EAF2121F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
